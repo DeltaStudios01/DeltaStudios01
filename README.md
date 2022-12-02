@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm MCHerobrine2381YT</h1>
-- 🌱 I’m currently learning Coding
+- 🌱 I’m currently learning Python
 
 <p align="left">
 </p>
