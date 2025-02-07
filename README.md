@@ -1,17 +1,60 @@
-<h1 align="center">Delta Studios</h1>
-Welcome to Delta Studios!
-Where creativity is fun!
+<h1 align="center">🚀 Delta Studios 🚀</h1>
 
-The branches factory of Delta Studios are:
-- Delta Studios Game Factory (DSGF)
-- Delta Studios Software Factory (DSSF)
-- Delta Studios Python Library Factory (DPYLIB)
-
-<p align="left">
+<p align="center">
+  <b>Welcome to Delta Studios!</b><br>
+  Where creativity meets innovation! 🎨💡
 </p>
 
-<h3 align="left">Programming language:</h3>
-<p align="left"></a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Website tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+## 🏭 Our Divisions
+Delta Studios consists of three main branches, each dedicated to pushing the boundaries of technology:
+
+- 🎮 **Delta Studios Game Factory (DSGF)** – Developing fun and engaging games.
+- 🖥 **Delta Studios Software Factory (DSSF)** – Crafting powerful and user-friendly software.
+- 🐍 **Delta Studios Python Library Factory (DPYLIB)** – Creating useful and efficient Python libraries.
+
+---
+
+## 💻 Tech Stack
+### 🔹 Programming Languages
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Batch_file_icon.png/96px-Batch_file_icon.png" alt="Batch" width="50" height="50"/>
+  </a>
+</p>
+
+### 🌐 Website Tools
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
+  </a>
+</p>
+
+---
+
+## 📬 Contact & Collaboration
+We are always open to collaboration and new ideas! Feel free to reach out. 🚀  
+
+📢 **Join our community:**  
+<a href="https://chat.whatsapp.com/JbfYIOY04nm9Pe8CarI49c" target="_blank"></a> <a href="https://chat.whatsapp.com/JbfYIOY04nm9Pe8CarI49c" target="_blank">Join our WhatsApp Group!</a>
+
+🐙 **GitHub:** [GitHub](https://github.com/DeltaStudios01)
+
+---
+
+<p align="center">
+  🚀 <b>Delta Studios – Turning ideas into reality! 🌟</b>
+</p>
