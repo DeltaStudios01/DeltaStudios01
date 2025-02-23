@@ -6,6 +6,8 @@
 </p>
 
 ---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&width=435&lines=Hello%2C+and+Welcome+to+Delta+Studios!;Where+creativity+meets+innovation!;At+Delta+Studios+there+are+three+main+branches;Delta+Studios+Game+Factory+(DSGF)+%E2%80%93+Developing+fun+and+engaging+games.;Delta+Studios+Software+Factory+(DSSF)+%E2%80%93+Crafting+powerful+and+user-friendly+software.;+Delta+Studios+Python+Library+Factory+(DPYLIB)+%E2%80%93+Creating+useful+and+efficient+Python+libraries.)](https://git.io/typing-svg)
+---
 
 ## 🏭 Our Divisions
 Delta Studios consists of three main branches, each dedicated to pushing the boundaries of technology:
