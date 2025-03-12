@@ -10,6 +10,7 @@
 ## About Us
 Delta Studios is committed to pushing the boundaries of technology, focusing on game development, software engineering, and Python library creation.
 
+Founder: [Hafiz Daffa W.](https://github.com/HafizDaffa01)
 ---
 
 ## Our Divisions
@@ -53,3 +54,9 @@ We are always open to new collaborations and ideas. Connect with us:
 
 ## Our Vision
 Delta Studios is dedicated to transforming innovative ideas into reality through cutting-edge technology and development excellence.
+
+---
+
+![Daffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeltaStudios01&show_icons=true&theme=cobalt&cache_seconds=5)
+
+---
