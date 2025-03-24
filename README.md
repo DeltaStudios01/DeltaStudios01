@@ -4,7 +4,7 @@
 </h1>
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=370&pause=1000&width=10000&height=500&lines=Welcome+to+Delta+Studios!;Where+creativity+meets+innovation!;At+Delta+Studios+there+are+three+main+branches%3A;1.+Delta+Studios+Game+Factory+(DSGF);Developing+fun+and+engaging+games.;2.+Delta+Studios+Software+Factory+(DSSF);Crafting+powerful+and+user-friendly+software.;3.+Delta+Studios+Python+Library+Factory+(DPYLIB);Creating+useful+and+efficient+Python+libraries.)](https://github.com/DeltaStudios01)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=390&pause=1000&width=10000&height=500&lines=Welcome+to+Delta+Studios!;Where+creativity+meets+innovation!;At+Delta+Studios+there+are+three+main+branches%3A;1.+Delta+Studios+Game+Factory+(DSGF);Developing+fun+and+engaging+games.;2.+Delta+Studios+Software+Factory+(DSSF);Crafting+powerful+and+user-friendly+software.;3.+Delta+Studios+Python+Library+Factory+(DPYLIB);Creating+useful+and+efficient+Python+libraries.)](https://github.com/DeltaStudios01)
 ---
 
 ## About Us
