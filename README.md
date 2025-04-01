@@ -4,8 +4,6 @@
 </h1>
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=370&pause=1000&width=10000&height=600&lines=Welcome+to+Delta+Studios!;Where+creativity+meets+innovation!;At+Delta+Studios+there+are+three+main+branches%3A;1.+Delta+Studios+Game+Factory+(DSGF);Developing+fun+and+engaging+games.;2.+Delta+Studios+Software+Factory+(DSSF);Crafting+powerful+and+user-friendly+software.;3.+Delta+Studios+Python+Library+Factory+(DPYLIB);Creating+useful+and+efficient+Python+libraries.)](https://github.com/DeltaStudios01)
----
 
 ## About Us
 Delta Studios is committed to pushing the boundaries of technology, focusing on game development, software engineering, and Python library creation.
@@ -57,6 +55,9 @@ Delta Studios is dedicated to transforming innovative ideas into reality through
 
 ---
 
-![Daffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeltaStudios01&show_icons=true&theme=cobalt&cache_seconds=5)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeltaStudios01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeltaStudios01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ---
