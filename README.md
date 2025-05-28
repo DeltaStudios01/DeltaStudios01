@@ -27,6 +27,8 @@ Delta Studios is structured into three specialized branches:
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/><br>Python</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Batch_file_icon.png/96px-Batch_file_icon.png" alt="Batch" width="50" height="50"/><br>Batch</td>
+    <td align="center"><img src="https://static-00.iconduck.com/assets.00/nodejs-original-icon-907x1024-dh0ye2y2.png" alt="Node.JS" width="50" height="50"/><br>Node.JS</td>
+    <td align="center"><img src="https://img.icons8.com/color/512/express-js.png" alt="Express.JS" width="50" height="50"/><br>Express.JS</td>
   </tr>
 </table>
 
